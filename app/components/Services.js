@@ -9,22 +9,22 @@ export default class Services extends React.Component {
 						<div className="col-md-6">
 							<div className="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="0">
 								<div className="feature-box-icon">
-									<i className="icon-user-following icons text-color-quaternary"></i>
+									<i className="icon-globe icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">Customer Support</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+									<h4 className="mb-sm">Diverse Genres</h4>
+									<p className="mb-lg">We specialize in rock, jazz, classical, blues, heavy metal, and R&B. We are open to teaching any genre of music that you would like to learn.</p>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6">
 							<div className="feature-box feature-box-style-2 appear-animation" data-appear-animation="fadeInRight" data-appear-animation-delay="0">
 								<div className="feature-box-icon">
-									<i className="icon-layers icons text-color-quaternary"></i>
+									<i className="fa fa-hand-paper-o icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">Sliders</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+									<h4 className="mb-sm">Broad Range of Techniques</h4>
+									<p className="mb-lg">Learn how to finger pick, tap, strum, bend, use slides, how to create swell effects, and a variety of other techniques.</p>
 								</div>
 							</div>
 						</div>
@@ -33,11 +33,11 @@ export default class Services extends React.Component {
 						<div className="col-md-6">
 							<div className="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="300">
 								<div className="feature-box-icon">
-									<i className="icon-calculator icons text-color-quaternary"></i>
+									<i className="icon-music-tone-alt icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">HTML5</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+									<h4 className="mb-sm">Reading Music & Theory</h4>
+									<p className="mb-lg">Learn how to read and understand tablature, standard notation, and chord charts. Some music theory aspects that we cover are chord extensions, CAGED System, and modes.</p>
 								</div>
 							</div>
 						</div>
@@ -47,8 +47,8 @@ export default class Services extends React.Component {
 									<i className="icon-star icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">Icons</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing metus elit. Quisque rutrum pellentesque imperdiet.</p>
+									<h4 className="mb-sm">Improvisation</h4>
+									<p className="mb-lg">We offer transcribing of your favorite tunes! You will also learn how to improvise so that you can perform in front of family and friends.</p>
 								</div>
 							</div>
 						</div>
@@ -57,22 +57,22 @@ export default class Services extends React.Component {
 						<div className="col-md-6">
 							<div className="feature-box feature-box-style-2 reverse appear-animation" data-appear-animation="fadeInLeft" data-appear-animation-delay="600">
 								<div className="feature-box-icon">
-									<i className="icon-drop icons text-color-quaternary"></i>
+									<i className="icon-user icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">Colors</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+									<h4 className="mb-sm">Customer Service</h4>
+									<p className="mb-lg">Our great availability allows you to take lessons on your own schedule. We are located in downtown Rochester in an easy to access studio.</p>
 								</div>
 							</div>
 						</div>
 						<div className="col-md-6">
 							<div className="feature-box feature-box-style-2 appear-animation" data-appear-animation="fadeInRight" data-appear-animation-delay="600">
 								<div className="feature-box-icon">
-									<i className="icon-mouse icons text-color-quaternary"></i>
+									<i className="icon-microphone icons text-color-quaternary"></i>
 								</div>
 								<div className="feature-box-info">
-									<h4 className="mb-sm">Buttons</h4>
-									<p className="mb-lg">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque rutrum pellentesque imperdiet. Nulla lacinia iaculis nulla.</p>
+									<h4 className="mb-sm">Other Services</h4>
+									<p className="mb-lg">Feel free to contact us about performing at any personal events, such as weddings, funerals, and parties.</p>
 								</div>
 							</div>
 						</div>

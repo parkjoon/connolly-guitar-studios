@@ -1,7 +1,8 @@
 import React from 'react';
 
+import About from './About';
 import Banner from './Banner';
-import Experience from './Experience';
+import Extras from './Extras';
 import Footer from './Footer';
 import Header from './Header';
 import Services from './Services';
@@ -17,8 +18,9 @@ export default class Home extends React.Component {
 					<Banner />
 					<SubBanner />
 					<Services />
+					<About />
 					<Testimonials />
-					<Experience />
+					<Extras />
 				</div>
 				<Footer />
 			</div>

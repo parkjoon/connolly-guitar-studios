@@ -29,7 +29,7 @@ export default class Banner extends React.Component {
 								data-x="center" data-hoffset="0"
 								data-y="center" data-voffset="-95"
 								data-start="500"
-								style={{...textStyle, zIndex: '5'}}
+								style={{...textStyle, zIndex: '5', cursor: 'default'}}
 								data-transform_in="y:[-300%];opacity:0;s:500;">LOOKING FOR</div>
 
 							<div className="tp-caption"
@@ -46,28 +46,15 @@ export default class Banner extends React.Component {
 								data-whitespace="nowrap"
 								data-transform_in="y:[100%];s:500;"
 								data-transform_out="opacity:0;s:500;"
-								style={{...textStyle, zIndex: '5'}}
+								style={{...textStyle, zIndex: '5', cursor: 'default'}}
 								data-mask_in="x:0px;y:0px;">GUITAR LESSONS?</div>
 
 							<div className="tp-caption bottom-label"
 								data-x="center" data-hoffset="0"
 								data-y="center" data-voffset="5"
 								data-start="2000"
-								style={{...textStyle, zIndex: '5'}}
+								style={{...textStyle, zIndex: '5', cursor: 'default'}}
 								data-transform_in="y:[100%];opacity:0;s:500;">Check out what we have to offer.</div>
-
-							<a className="tp-caption btn btn-lg btn-primary btn-slider-action"
-								data-hash
-								data-hash-offset="85"
-								href="#home-intro"
-								data-x="center" data-hoffset="0"
-								data-y="center" data-voffset="80"
-								data-start="2200"
-								data-whitespace="nowrap"
-								data-transform_in="y:[100%];s:500;"
-								data-transform_out="opacity:0;s:500;"
-								style={{zIndex: '5'}}
-								data-mask_in="x:0px;y:0px;">Get Started Now!</a>
 						</li>
 					</ul>
 				</div>
