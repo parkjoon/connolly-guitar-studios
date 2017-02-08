@@ -17,6 +17,7 @@ export default class Footer extends React.Component {
 							</div>
 							<div className="col-md-4">
 								<span className="pull-right">Bryan Connolly, 248-601-3662</span>
+								<a href="mailto:Bryan@ConnollyGuitarStudios.com" className="pull-right">Bryan@ConnollyGuitarStudios.com</a>
 							</div>
 						</div>
 						<div className="row">
