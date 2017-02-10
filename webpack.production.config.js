@@ -10,7 +10,7 @@ module.exports = {
     path.resolve(__dirname, 'app/main.js')
   ],
   output: {
-    path: path.resolve(__dirname, 'build'),
+    path: path.resolve(__dirname, '/build/'),
     publicPath: '/',
     filename: './bundle.js'
   },
@@ -36,8 +36,7 @@ module.exports = {
       }
     }),
     new CopyWebpackPlugin([
-      { from: './app/index.html', to: 'index.html' },
-      { from: './app/main.css', to: 'main.css' }
+      { from: './app/index.html', to: 'index.html' }
   ]),
   new webpack.ProvidePlugin({
             "React": "react",
