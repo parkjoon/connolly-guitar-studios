@@ -9,7 +9,7 @@ export default class Header extends React.Component {
 						<div className="header-row">
 							<div className="header-column">
 								<div className="header-logo">
-									<a href="index.html">
+									<a href="javascript:;">
 										{/* <img alt="Porto" width="82" height="40" src="static/img/logo-default-slim-dark.png" /> */}
 										<img alt="Porto" height="40" src="static/img/connolly-guitar-studios/logo-white-2.png" />
 									</a>
