@@ -8,7 +8,7 @@ export default class Footer extends React.Component {
 					<div className="container">
 						<div className="row">
 							<div className="col-md-1">
-								<a href="index.html" className="logo">
+								<a href="javascript:;" className="logo">
 									<img className="img-responsive" src="static/img/connolly-guitar-studios/logo-white-2.png" />
 								</a>
 							</div>
