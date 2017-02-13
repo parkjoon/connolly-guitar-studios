@@ -28,7 +28,7 @@ export default class Testimonials extends React.Component {
 									<div className="col-md-12">
 										<div className="testimonial testimonial-style-2 testimonial-with-quotes mb-none">
 											<div className="testimonial-author">
-												<img src="static/img/connolly-guitar-studios/male-placeholder-1.jpg" className="img-responsive img-circle" alt="" />
+												<img src="static/img/connolly-guitar-studios/jessica-1.png" className="img-responsive img-circle" alt="" />
 											</div>
 											<blockquote>
 												<p>I first started learning music at Connolly Guitar Studios. Bryan's lessons were always fun and he was able to help me learn how to play many of my favorite songs. He also inspired me to learn how to play the piano and saxophone.</p>
