@@ -20,7 +20,7 @@ export default class Header extends React.Component {
 									<span className="text-light">Bryan Connolly, 248-601-3662</span>
 								</div>
 								<div className="header-row pull-right">
-									<a href="mailto:connollyguitarstudios@gmail.com" className="text-light">connollyguitarstudios@gmail.com</a>
+									<a href="mailto:Bryan@ConnollyGuitarStudios.com" className="text-light">Bryan@ConnollyGuitarStudios.com</a>
 								</div>
 								<div className="header-row pull-right">
 									<a target="_blank" href="https://www.google.com/maps/place/134+W+University+Dr+%23310,+Rochester,+MI+48307/@42.6824473,-83.1374274,17z/data=!3m1!4b1!4m5!3m4!1s0x8824e9b978be0157:0xc25bb27a2236278d!8m2!3d42.6824473!4d-83.1352387" className="text-light">134 W University Dr #310, Rochester, MI 48307</a>
